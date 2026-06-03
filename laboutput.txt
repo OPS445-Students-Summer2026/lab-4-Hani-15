@@ -1,0 +1,11 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: hali154
+    Linux system name: debhost
+    Python executable: /usr/bin/python3
+    Python version:  3.11.2 (main, Apr 28 2025, 14:11:48) [GCC 12.2.0]
+    VS Code version:  1.120.0 646
+    OS Platform: linux
+    Working Directory: /home/hali154/ops445/lab4/lab-4-Hani-15
+    Start at: Wed Jun  3 17:51:20 2026
+=================================================================
